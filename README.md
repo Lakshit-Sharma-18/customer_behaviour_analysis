@@ -106,12 +106,8 @@ Created an interactive dashboard featuring:
 ---
 
 ## 🖼️ Dashboard Preview
+<img width="1920" height="1080" alt="Screenshot (780)" src="https://github.com/user-attachments/assets/21cc70a3-3832-4dc5-b642-f6f30cd9b6ea" />
 
-> Add your dashboard screenshot inside the `images` folder and replace the path below.
-
-```markdown
-![Dashboard](images/dashboard_preview.png)
-```
 
 ---
 
